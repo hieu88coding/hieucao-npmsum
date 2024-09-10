@@ -1,0 +1,21 @@
+{
+  "name": "hieucao-npmsum",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ\r Đơn giản, dễ dùng, cực kỳ nhẹ\r Được thực hiện để học cách tạo một npm package\r Tutorial: https://duthanhduoc.com/blog/tao-va-publish-package-len-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieucao88coding/hieucao-npmsum"
+  },
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "Hieu Cao",
+  "license": "MIT"
+}
